@@ -1,3 +1,3 @@
-# simon
+# simon-javascript
 
-This application deliverable demonstrates the use of basic Javascript for interactivity nativity.
+This deliverable demonstrates the use of basic JavaScript for interactivity.
